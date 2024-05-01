@@ -1,0 +1,1 @@
+My most recent and first project in the field of business analytics involved working on a project for a B2C Ecommerce store. I utilized Power BI to analyze data, visualize trends, and provide actionable insights.# Power-BI-First-Project
